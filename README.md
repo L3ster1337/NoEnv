@@ -1,7 +1,8 @@
 # NoEnv
 
 Este programa em C, destinado a ser utilizado em ambientes UNIX-like, fornece uma funcionalidade especial para a execução de comandos com argumentos que podem incluir representações hexadecimais. Abaixo está um resumo detalhado das suas características e funcionalidades:
-Visão Geral
+
+## Visão Geral
 
 O programa permite executar comandos fornecidos via linha de comando, onde os argumentos do comando podem incluir caracteres especiais representados por sequências de escape hexadecimal. É especialmente útil em situações onde é necessário passar caracteres que não podem ser facilmente digitados ou incluídos diretamente na linha de comando.
 Funcionalidades
