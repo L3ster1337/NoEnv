@@ -1,5 +1,7 @@
 # NoEnv
-
+<p align="center">
+    <img src="icon.jpeg">
+</p>
 Este programa em C, destinado a ser utilizado em ambientes UNIX-like, fornece uma funcionalidade especial para a execução de comandos com argumentos que podem incluir representações hexadecimais. Abaixo está um resumo detalhado das suas características e funcionalidades:
 
 ## Visão Geral
