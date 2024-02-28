@@ -29,7 +29,7 @@ Exemplo
 Neste exemplo, "\x61" será convertido para 'a', resultando no argumento "arg1".
 Compilação
 
-## Para compilar este programa, use um compilador C padrão, como gcc. O comando de compilação pode ser algo como:
+## Compilando com gcc.
 ``$ gcc noenv.c -o noenv``
 
 ### Notas
